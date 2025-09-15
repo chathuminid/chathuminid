@@ -48,6 +48,4 @@
 <p><a href="https://www.buymeacoffee.com/If you want"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="If you want" /></a></p><br><br>
 
 
-<div align="center">
-  <p align="center">:heart_eyes: Thanks for watching my profile! Have a nice day! :wink: </p><br/>
-</div>
+
